@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import training.taylor.timetracker.core.dao.TimeEntry;
 
 /**
- * Created by Jason on 6/19/2015.
+ * Created by Jason on 6/19/2015..........
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = TrackerCoreConfig.class)
